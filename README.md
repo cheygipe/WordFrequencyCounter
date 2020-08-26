@@ -6,6 +6,7 @@ Algorithm that reads a text file (.txt) and counts the frequency of words in the
 3. Then download the project from the repository and open Intellij, then select File > Open and search for the project folder wherever you saved it and select it. 
 4. After you open the project folder, scroll down to the last method **public static void main(String[] args)**, you will see a play icon (*►*) at the left of the method, press it and select the option **Run WordFrequency.main()**.
 5. You will see the result displayed in the console. 
+
 OPTIONAL: If you want to test it with any text that you like, just open the file “words.txt”, type any text that you like and save it, then run again the main method as previously explained.
 
 
