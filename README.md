@@ -14,4 +14,4 @@ OPTIONAL:
 
 
 ## What is the computational complexity of this code?:
-The computational complexity of this program is O(n^2), because we can see that the code has different methods and these methods have different processes with O(1), O(n) and O(n^2) complexity. Taking this into account, the fastest growing term is O(n^2) due to nested loops, meaning that the execution time is quadratic and obviously is bigger than constant O(1) and linear O(n) time.
+The computational complexity of this program is **O(n^2)**, because we can see that the code has different methods and these methods have different processes with O(1), O(n) and O(n^2) complexity. Taking this into account, the fastest growing term is O(n^2) due to nested loops, meaning that the execution time is quadratic and obviously is bigger than constant O(1) and linear O(n) time.
