@@ -9,7 +9,9 @@ Algorithm that reads a text file (.txt) and counts the frequency of words in the
 
 OPTIONAL: 
 1. If you want to test it with any text that you like, just open the file “words.txt”, type any text that you like and save it, then run again the main method as previously explained.
-2. If project does not run as expected, create a new blank project and then create a new Java class named **WordFrequency**, copy + paste the code in *src > WordFrequency* to your blank class and run it.
+2. If project does not run as expected:
+- Check if your JDK is equal or from a bigger version than v13.0.2
+- Create a new blank project and then create a new Java class named **WordFrequency**, copy + paste the code in *src > WordFrequency* to your blank class and run it.
 
 
 
